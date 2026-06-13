@@ -2,23 +2,6 @@
 
 ### Full Walkthrough | Windows | Medium
 
----
-
-## Table of Contents
-
-1. [Machine Overview](https://claude.ai/chat/27b3b536-652d-48a9-b4c3-7bac93bb9039#machine-overview)
-2. [Mindset & Methodology](https://claude.ai/chat/27b3b536-652d-48a9-b4c3-7bac93bb9039#mindset--methodology)
-3. [Phase 1 — Reconnaissance](https://claude.ai/chat/27b3b536-652d-48a9-b4c3-7bac93bb9039#phase-1--reconnaissance)
-4. [Phase 2 — SMB Enumeration & File Retrieval](https://claude.ai/chat/27b3b536-652d-48a9-b4c3-7bac93bb9039#phase-2--smb-enumeration--file-retrieval)
-5. [Phase 3 — LUKS Image Cracking](https://claude.ai/chat/27b3b536-652d-48a9-b4c3-7bac93bb9039#phase-3--luks-image-cracking)
-6. [Phase 4 — JSF ViewState Deserialization (RCE)](https://claude.ai/chat/27b3b536-652d-48a9-b4c3-7bac93bb9039#phase-4--jsf-viewstate-deserialization-rce)
-7. [Phase 5 — Shell as Alfred + User Flag](https://claude.ai/chat/27b3b536-652d-48a9-b4c3-7bac93bb9039#phase-5--shell-as-alfred--user-flag)
-8. [Phase 6 — Lateral Movement to Batman](https://claude.ai/chat/27b3b536-652d-48a9-b4c3-7bac93bb9039#phase-6--lateral-movement-to-batman)
-9. [Phase 7 — Root Flag via SMB UNC Bypass](https://claude.ai/chat/27b3b536-652d-48a9-b4c3-7bac93bb9039#phase-7--root-flag-via-smb-unc-bypass)
-10. [Key Takeaways](https://claude.ai/chat/27b3b536-652d-48a9-b4c3-7bac93bb9039#key-takeaways)
-11. [Commands Cheatsheet](https://claude.ai/chat/27b3b536-652d-48a9-b4c3-7bac93bb9039#commands-cheatsheet)
-
----
 
 ## Machine Overview
 
