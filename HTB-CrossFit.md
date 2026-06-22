@@ -15,15 +15,15 @@
 ---
 
 ## Table of Contents
-1. [Phase 0: Reconnaissance](#phase-0-reconnaissance)
-2. [Phase 1: The XSS Vector](#phase-1-the-xss-vector)
-3. [Phase 2: CORS Subdomain Enumeration](#phase-2-cors-subdomain-enumeration)
-4. [Phase 3: CSRF Account Creation](#phase-3-csrf-account-creation)
-5. [Phase 4: FTP Webshell & Foothold](#phase-4-ftp-webshell--foothold)
-6. [Phase 5: User Escalation (www-data → hank)](#phase-5-user-escalation-www-data--hank)
-7. [Phase 6: Lateral Movement (hank → isaac)](#phase-6-lateral-movement-hank--isaac)
-8. [Phase 7: Root Escalation (isaac → root)](#phase-7-root-escalation-isaac--root)
-9. [Key Lessons & Hacker Mindset Summary](#key-lessons--hacker-mindset-summary)
+1. [Phase 0: Reconnaissance]
+2. [Phase 1: The XSS Vector]
+3. [Phase 2: CORS Subdomain Enumeration]
+4. [Phase 3: CSRF Account Creation]
+5. [Phase 4: FTP Webshell & Foothold]
+6. [Phase 5: User Escalation (www-data → hank)]
+7. [Phase 6: Lateral Movement (hank → isaac)]
+8. [Phase 7: Root Escalation (isaac → root)]
+9. [Key Lessons & Hacker Mindset Summary]
 
 ---
 
